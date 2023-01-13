@@ -12,9 +12,11 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
+<div align="center">
+
   [![NPM](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)](https://github.com/nandajfa/devLinks/blob/main/LICENSE)
-</p>
+
+</div>
 
 <br>
 
