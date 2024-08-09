@@ -17,7 +17,7 @@
 }
 
 .light {
-  --text-color: black;
+  --text-color: #545454;
   --bg-url: url(./assets/light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
